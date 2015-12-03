@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Carteira Eletrônica</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="documento_titulo">Documento</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inclui">Incluir</string>
+    <string name="title_activity_listar">Listar</string>
+    <string name="title_activity_visualizar">VisualizarActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_visualizar_imagem">VisualizarImagemActivity</string>
+</resources>
